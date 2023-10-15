@@ -1,0 +1,52 @@
+.author-img {
+  border-radius: 50px;
+  float: left;
+  margin-right: 10px;
+}
+.author-name {
+  font-weight: bold;
+}
+p {
+  font-weight: bold;
+}
+em {
+  color: red;
+}
+.table {
+  border-collapse: collapse;
+}
+table {
+  margin-top: 10px;
+  border-color: #c4dcf3;
+}
+.heading {
+  background-color: #427fef;
+}
+.total {
+  background-color: #427fef;
+}
+.odd1 {
+  background-color: #eef7ff;
+}
+.odd2 {
+  background-color: #eef7ff;
+}
+th,
+td {
+  padding: 10px;
+  text-align: center;
+}
+.box {
+  margin-top: 20px;
+  width: 300px;
+  height: 300px;
+  background-color: tomato;
+  box-shadow: 10px 10px 10px grey;
+  text-align: center;
+}
+.jump-to-top {
+  margin-top: 20px;
+  margin-bottom: 30px;
+  margin-rightt: 100px;
+  float: right;
+}
